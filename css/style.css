@@ -29,3 +29,6 @@ header {
     border: 10px groove #A00095;
     text-align: left;
 }
+h2 {
+    margin-left: 20px;
+}
