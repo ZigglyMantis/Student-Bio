@@ -1,0 +1,12 @@
+body {
+    color: #A229D6;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 2px 2px 7px 1px #A229D6;
+
+}
+html {
+    background: #FFFFFF;
+    background: -moz-linear-gradient(-45deg, #FFFFFF 0%, #FC87FF 35%, #9E0087 100%);
+    background: -webkit-linear-gradient(-45deg, #FFFFFF 0%, #FC87FF 35%, #9E0087 100%);
+    background: linear-gradient(135deg, #FFFFFF 0%, #FC87FF 35%, #9E0087 100%);
+}
